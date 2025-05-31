@@ -78,7 +78,6 @@ dependencies:
     - cycler==0.12.1
     - cython==3.0.12
     - decorator==4.4.2
-    - demucs==4.1.0a2
     - dora-search==0.1.12
     - einops==0.8.1
     - exceptiongroup==1.2.2
